@@ -1,0 +1,5 @@
+i gonna crack faang in 6 months 
+ git init 
+ git status 
+ git add
+ git commit -m 
